@@ -1,6 +1,6 @@
 # GCP Data Analytics Architecture Overview
 
-![Architecture Diagram](/docs/images/architecture.png)
+![Architecture Diagram](https://raw.githubusercontent.com/Bagansio/taxi-architecture/main/docs/images/architecture.png)
 
 
 ## INGEST
