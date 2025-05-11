@@ -181,12 +181,12 @@ Taxis authenticate using Google Oauth, then their users have a custom role assig
 
 ### Event use case
 
-![Event use case](/docs/images/event-us.png)
+![Event use case](images/event-us.PNG)
 
 ### Generate receipt use case
 
-![Event use case](/docs/images/generate-receipt-us.png)
+![Event use case](images/generate-receipt-us.PNG)
 
 ### Request trip use case
 
-![Event use case](/docs/images/request-trip-us.png)
+![Event use case](images/request-trip-us.PNG)
