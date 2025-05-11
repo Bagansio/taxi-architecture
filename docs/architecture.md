@@ -1,6 +1,6 @@
 # GCP Data Analytics Architecture Overview
 
-![Architecture Diagram](images/architecture.png)
+![Architecture Diagram](/docs/images/architecture.png)
 
 
 ## INGEST
@@ -181,12 +181,12 @@ Taxis authenticate using Google Oauth, then their users have a custom role assig
 
 ### Event use case
 
-![Event use case](images/event-us.png)
+![Event use case](/docs/images/event-us.png)
 
 ### Generate receipt use case
 
-![Event use case](images/generate-receipt-us.png)
+![Event use case](/docs/images/generate-receipt-us.png)
 
 ### Request trip use case
 
-![Event use case](images/request-trip-us.png)
+![Event use case](/docs/images/request-trip-us.png)
